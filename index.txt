@@ -1,0 +1,111 @@
+PERSONAL PORTFOLIO
+
+
+# SIDEBAR
+
+alt = Prashant Yeotikar
+Prashant Yeotikar
+Web developer
+
+Show Contacts
+
+Email
+prashantp7472@gmail.com
+
+Phone
++91 9146921506
+
+Birthday
+June 15, 1998
+
+Location
+Nanded, Maharashtra, India
+
+# NAVBAR
+
+About
+Resume
+Projects
+Contact
+
+# ABOUT
+
+About me
+
+I'm Creative Director and UI/UX Designer from Sydney, Australia, working in web development and print media. I enjoy turning complex problems into simple, beautiful and intuitive designs.
+
+My job is to build your website so that it is functional and user-friendly but at the same time attractive. Moreover, I add personal touch to your product and make sure that is eye-catching and easy to use. My aim is to bring across your message and identity in the most creative way. I created web design for many famous brand companies.
+
+
+# service
+
+What i'm doing
+
+alt = design icon
+Web design
+The most modern and high-quality design made at a professional level.
+
+alt = Web development icon
+Web development
+High-quality development of sites at the professional level.
+
+alt = mobile app icon
+Mobile apps
+Professional development of applications for iOS and Android.
+
+
+
+
+# clients
+
+Clients
+
+alt = client logo
+
+
+
+# resume
+
+Resume
+
+Education
+
+
+My skills
+
+Web design
+80%
+Graphic design
+70%
+WordPress
+50%
+
+
+
+# portfolio
+
+Portfolio
+
+All
+Web Add
+Applications
+Web development
+
+Select category
+All
+Web Add
+Applications
+Web development
+
+alt = finance
+Finance
+Web development
+
+
+# CONTACT
+
+Contact Form
+Full name
+Email address
+Your Message
+Send Message
